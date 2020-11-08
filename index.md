@@ -1,3 +1,3 @@
-# Tutorial sit for GitHub pages
+# Tutorial for GitHub pages
 
 Example content ...
